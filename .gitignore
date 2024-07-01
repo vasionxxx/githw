@@ -1,0 +1,5 @@
+# Ignore compiled
+*.рус
+
+# Ignore cache
+cache/
